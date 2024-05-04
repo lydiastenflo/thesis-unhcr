@@ -1,5 +1,5 @@
-Creators: Lydia Stenflo & Sara Kautto
-Model:
-Data:
-Thesis:
-Presentation:
+**Creators:** Lydia Stenflo & Sara Kautto
+**Fine-tuned Classification Model:** 
+**Data:**
+**Thesis:**
+**Presentation:** 
